@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app
+https://example.com
 Discover elite aftermarket automotive parts for your VW, Audi, Skoda, or SEAT MQB build. Join the ultimate niche hub to buy, sell, and trade performance upgrades today.
 
 ### Platform Guide
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/platform-guide
+https://example.com/platform-guide
 Dive into the definitive MQB platform guide covering compatibility, generations, and modular secrets across VW Group brands. Unlock smarter aftermarket performance auto parts choices now.
 
 ### Community
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/community
+https://example.com/community
 Connect with passionate MQB owners swapping aftermarket automotive parts, sharing Mk7 and Mk8 Golf builds, and fueling a community-driven performance parts scene.
 
 ### Contact
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/contact
+https://example.com/contact
 Need hard-to-find automotive exterior parts or performance upgrades? Reach our MQB specialist team and get matched with the right aftermarket parts for your build fast.
 
 ### Products
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/products
+https://example.com/products
 Our Products - Volkswagen MQB Marketplace
 
 ### Cart
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Volkswagen MQB Marketplace
 
 ### Category
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Volkswagen MQB Marketplace
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ Automotive Parts & Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/sitemap.xml
-- Robots: https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/llms-full.txt
-- Products (JSON): https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/products.json
-- Products (Google Merchant RSS): https://volkswagen-mqb-marketplace-50628cf8.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
